@@ -39,7 +39,7 @@
 ## 📸 Screenshots
 
 **1️⃣ GET All Users**
-![GET Users](https://via.placeholder.com/600x300?text=GET+Users+Screenshot)
+![GET Users](https://github.com/sreya1711/nodejs/blob/main/Screenshot%202025-12-09%20194225.png)
 
 **2️⃣ POST User**
 ![POST User](https://via.placeholder.com/600x300?text=POST+User+Screenshot)
