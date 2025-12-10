@@ -41,14 +41,20 @@
 **1️⃣ GET All Users**
 ![GET Users](https://github.com/sreya1711/nodejs/blob/main/Screenshot%202025-12-09%20194225.png)
 
+---
+
 **2️⃣ POST User**
 ![POST User](https://github.com/sreya1711/nodejs/blob/main/Screenshot%202025-12-09%20194413.png)
+
+---
 
 **3️⃣ PUT User**
 ![PUT User](https://via.placeholder.com/600x300?text=PUT+User+Screenshot)
 
+---
+
 **4️⃣ DELETE User**
-![DELETE User](https://via.placeholder.com/600x300?text=DELETE+User+Screenshot)
+![DELETE User](https://github.com/sreya1711/nodejs/blob/main/Screenshot%202025-12-09%20194453.png)
 
 ---
 
