@@ -49,7 +49,7 @@
 ---
 
 **3️⃣ PUT User**
-![PUT User](https://via.placeholder.com/600x300?text=PUT+User+Screenshot)
+![PUT User](https://github.com/sreya1711/nodejs/blob/main/unnamed.png)
 
 ---
 
